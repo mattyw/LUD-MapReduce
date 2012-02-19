@@ -1,6 +1,6 @@
 What this is
 ============
 
-A python version of a tutorial (initially using PHP) for writing a streaming application to run on [Amazon's elastic MapReduce](http://aws.amazon.com/elasticmapreduce/) system.
+A python version of a tutorial (initially using PHP) for writing a streaming application to run on Amazon's elastic MapReduce (http://aws.amazon.com/elasticmapreduce/) system.
 
-The tutorial was written by Andy Leon and appeared in [Linux User & Developer](http://linuxuser.co.uk) Magazine issue 110
+The tutorial was written by Andy Leon and appeared in Linux User & Developer (http://linuxuser.co.uk) Magazine issue 110
